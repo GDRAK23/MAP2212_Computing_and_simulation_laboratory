@@ -1,2 +1,2 @@
-# MAP2212-Computing-and-simulation-laboratory
+# MAP2212_Computing_and_simulation_laboratory
 Assignments from MAP 2212
