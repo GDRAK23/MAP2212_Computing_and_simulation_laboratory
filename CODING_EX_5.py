@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-#Escreva seus nomes e numeros USP
-INFO = {7199162:"Guilherme Augusto Martins",8941602:"Rafael José Barbosa Mello"}
-
 class Estimador:
     
     #Inicialização da classe e armazenamento dos parâmetros da Dir(x+y-1)
