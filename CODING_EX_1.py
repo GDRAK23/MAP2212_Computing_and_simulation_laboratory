@@ -3,7 +3,7 @@
 
 import random
 #Escreva seu nome e numero USP
-INFO = {7199162:"Guilherme Augusto Martins"}
+INFO = {7166783:"João da Silva"}
 def estima_pi(Seed = None):
     
     random.seed(Seed)
