@@ -3,9 +3,9 @@
 import random
 
 #Escreva seu nome e numero USP
-INFO = {7199162:"Guilherme Augusto Martins"}
-A = 0.48513472  # A = 0.rg
-B = 0.36450663812  # B = 0.cpf
+INFO = {7166783:"João da Silva"}
+A = 0.42473872  # A = 0.rg
+B = 0.15855643512  # B = 0.cpf
 
 #Função a integrar
 def f(x):
