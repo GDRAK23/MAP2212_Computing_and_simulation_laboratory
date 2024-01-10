@@ -6,6 +6,7 @@ class Estimador:
     
     #Inicialização da classe e armazenamento dos parâmetros da Dir(x+y-1)
     def __init__(self,x,y):
+    
         
         import numpy as np
         
